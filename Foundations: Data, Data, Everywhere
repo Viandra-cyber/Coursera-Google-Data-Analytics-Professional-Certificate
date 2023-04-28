@@ -64,5 +64,30 @@ and data design. What other two analytical skills would they employ? Select all 
   data strategy
 
 
-== Modul 3 ==
+== Weekly Challenge 3 ==
+In the plan stage of the data life cycle, what decisions would a data analyst make? Select all that apply. 
+Who will be responsible for the data, What kind of data is needed, & How the data will be managed
 
+The destroy stage of the data life cycle might involve which actions? Select all that apply.
+Shredding paper files, Using data-erasure software
+
+Question 3
+A data analyst uses a spreadsheet function to aggregate data. Then, they add a pivot table to show totals from least to greatest. 
+This would happen during which phase of the data life cycle?
+Analyze
+
+The data life cycle deals with the stages that data goes through during its useful life; data analysis involves following a process to analyze data.
+True
+
+A business analyst recently completed a project that their company has decided to use to solve a larger business problem. 
+What step is this in the data analysis process?
+Act
+
+A set of instructions used to perform a specified calculation is known as what? A formula
+
+Question 7
+Fill in the blank: To request, retrieve, and update information in a database, data analysts use a  Query
+
+Why is SQL the most popular structured query language? Select all that apply.
+SQL works with a wide variety of databases 
+SQL is easy to understand
